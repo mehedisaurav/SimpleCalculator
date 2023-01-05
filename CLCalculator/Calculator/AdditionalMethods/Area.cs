@@ -10,6 +10,7 @@ namespace Calculator.AdditionalMethods
     public static class Area
     {
 
+        //extended MathS .dll
         public static void Display(this SimpleMath math, int val1, int val2)
         {
             Console.WriteLine("Extended method called...");
